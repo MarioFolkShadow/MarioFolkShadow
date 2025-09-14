@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello, I'm M.F.S. you know! 
+![Mario F. Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariofolkshadow&show_icons=true&theme=transparent)\
+I'm an active Game Developer and Game Designer for Runout Studio.\
+I'm making stuff like **[Lightning Framework](insert link here, lol)**, **[Lightning Engine](https://github.com/Runout-Studio/Lightning-Engine)** and **BEAT//BREAK**.
+
+My goal is to push the limit of Thailand Game Industry to international with tools by people in national\
+and show how creative we can be without **culture limitation**.
 
 <!--
 **MarioFolkShadow/MarioFolkShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
